@@ -5,7 +5,7 @@ Record all the coffees you drink per day, month or year, as well as the amount o
 ##### Built during a Hacking with Swift <img alt="Swift icon" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="15" height="15"/> [livestream on YouTube](https://www.youtube.com/watch?v=tSwDfV6D_70)
 
 ### Gif and Screenshots 📲
-<img src="https://user-images.githubusercontent.com/74383412/162264157-2327cb56-c434-4f97-bff0-0a54f854dff5.gif" width="220" height="476">          <img src="https://user-images.githubusercontent.com/74383412/162265153-07211b15-5969-4667-a70b-0709ea1e37bb.png" width="220" height="476">          <img src="https://user-images.githubusercontent.com/74383412/162265248-d0cd3727-f765-4d10-a9c3-d40de9c61d4e.png" width="220" height="476">          <img src="https://user-images.githubusercontent.com/74383412/162265370-970f8f17-c707-46ad-848e-7deab0db6bc3.png" width="220" height="476">
+<img src="https://user-images.githubusercontent.com/74383412/162264157-2327cb56-c434-4f97-bff0-0a54f854dff5.gif" width="200">          <img src="https://user-images.githubusercontent.com/74383412/162265153-07211b15-5969-4667-a70b-0709ea1e37bb.png" width="200">          <img src="https://user-images.githubusercontent.com/74383412/162265248-d0cd3727-f765-4d10-a9c3-d40de9c61d4e.png" width="200">          <img src="https://user-images.githubusercontent.com/74383412/162265370-970f8f17-c707-46ad-848e-7deab0db6bc3.png" width="200">
 
 ### What I've learned
 - SwiftUI
